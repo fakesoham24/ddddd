@@ -1,0 +1,16 @@
+# Core Data Handling
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Web App
+streamlit>=1.30.0
+
+# Excel Support
+openpyxl>=3.1.0
+
+# Optional (recommended for production logging & compatibility)
+python-dotenv>=1.0.0
